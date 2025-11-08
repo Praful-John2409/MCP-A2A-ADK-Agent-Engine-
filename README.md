@@ -76,7 +76,7 @@ cd codelab-1-multi-agents-adk-a2a    # or codelab-2-... / codelab-3-...
 
 ## 🎥 Video Walkthroughs (Placeholders)
 
-* (**Codelab 1 Video:** )[#]
+* (**Codelab 1 Video:** )[https://youtu.be/KMCOmMYH7mw]
 * (**Codelab 2 Video:** )[#]
 * (**Codelab 3 Video:** *)[#]
 
